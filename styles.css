@@ -1,0 +1,15 @@
+div.center {
+   width: 100%;
+   text-align:center;
+}
+
+fieldset {
+    margin:auto;
+    width: 50%;
+
+}
+
+#signature {
+  margin: 30px;
+  text-align: center;
+}
